@@ -74,3 +74,13 @@ Wenqi Shao, Qiaosheng Zhang
 **Hiring Announcement**
 
 We are hiring interns at the Shanghai AI Lab, with a focus on multi-modality reasoning model. If you are interested, please contact weqish@gmail.com.
+
+# 📜 Citation
+```
+@article{meng2025mm,
+  title={MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning},
+  author={Meng, Fanqing and Du, Lingxiao and Liu, Zongkai and Zhou, Zhixiang and Lu, Quanfeng and Fu, Daocheng and Shi, Botian and Wang, Wenhai and He, Junjun and Zhang, Kaipeng and others},
+  journal={arXiv preprint arXiv:2503.07365},
+  year={2025}
+}
+```
