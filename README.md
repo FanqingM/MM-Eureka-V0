@@ -67,13 +67,6 @@ Our codebase builds upon [Open-R1-Multimodal](https://github.com/EvolvingLMMs-La
 
 Lingxiao Du, Xiangyan Liu, Fanqing Meng.
 
-**Project Leader**
-
-Wenqi Shao, Qiaosheng Zhang
-
-**Hiring Announcement**
-
-We are hiring interns at the Shanghai AI Lab, with a focus on multi-modality reasoning model. If you are interested, please contact weqish@gmail.com.
 
 # 📜 Citation
 ```
